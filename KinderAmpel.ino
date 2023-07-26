@@ -1,6 +1,6 @@
 #include <avr/sleep.h>
 #include <avr/power.h>
-#include <debounce.h>
+#include <debounce.h> // Bibliothek debounce von Aaron Kimball einbinden
 
 // Typen fuer diverse Aufgaben einen Namen geben
 typedef unsigned long zeit_t;
